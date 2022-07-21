@@ -1,8 +1,5 @@
 # Time-Management-With-ClickUp
 
-
-<h1 style="font-size:10vw">Hello World</h1>
-
 **Functionality:**
 
 <img width="361" alt="Screen Shot 2022-07-21 at 6 26 34 PM" src="https://user-images.githubusercontent.com/22686373/180325525-104d9d9f-9b94-4153-b5a8-27e136b4e850.png">
