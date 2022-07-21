@@ -21,4 +21,4 @@ Code:
 
 <img width="581" alt="Screen Shot 2022-07-21 at 7 02 44 PM" src="https://user-images.githubusercontent.com/22686373/180329246-45ab04fe-a04e-481a-8e1e-866c9c5e56fc.png">
 
-Modify the above to use the program
+Find above in code to use program
