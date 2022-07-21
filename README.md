@@ -13,4 +13,4 @@ Line #4: Sum of time estimation for tasks (135.0 hours), days left until tasks d
 
 Line #5: Time on track to doing 12 hours of work a day (can be customized in code to more or less hours expected a day)
 
-The tasks analyzed need to be made "urgent" priority and have a due date in the future. Tasks / subtasks currently being worked on need to be tagged ("today")
+The tasks analyzed need to be made "urgent" priority and have a due date in the future. Tasks / subtasks currently being worked on need to be tagged "today".
