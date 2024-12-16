@@ -8,7 +8,13 @@ Fill in code to run script.
 ## Features
 `To Be Written`
 
-## Explanation
+<img width="436" alt="Screenshot 2024-12-16 at 10 18 43 AM" src="https://github.com/user-attachments/assets/eb0fedf8-6435-4f48-8f5f-3ef65683dd3d" />
+
+New Look!
+
+
+
+## Outdated Explanation
 <img width="361" alt="Screen Shot 2022-07-21 at 6 26 34 PM" src="https://user-images.githubusercontent.com/22686373/180325525-104d9d9f-9b94-4153-b5a8-27e136b4e850.png">
 
 Line #1: Time left on current running task (59 minutes) and the time expected to be finished (7:26PM)
